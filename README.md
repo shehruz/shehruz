@@ -32,7 +32,6 @@ AI & ML Enthusiast • Full Stack Developer • Android Explorer
 <p align="center">
 🤖 Google AI Studio &nbsp; • &nbsp; ⚡ OpenAI Codex &nbsp; • &nbsp; 🚀 Antigravity
 </p>
-```
 
 
 ---
