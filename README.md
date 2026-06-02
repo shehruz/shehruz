@@ -63,11 +63,17 @@ Healthcare management and appointment platform focused on accessibility and conn
 # 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehruz&show_icons=true&theme=tokyonight" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shehruz&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehruz&layout=compact&theme=tokyonight" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehruz&layout=compact&theme=tokyonight&hide_border=true" />
+# 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shehruz&theme=tokyonight" />
 </p>
 
 ---
