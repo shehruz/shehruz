@@ -80,8 +80,20 @@ AI-powered real-time driver safety & road warning system using:
 
 <p align="left">
 
-<a href="https://github.com/shehruz">
+<a href="https://github.com/shehruz" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/shehruzmuhammed" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/Sh_hruz" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:shehruzm7@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
