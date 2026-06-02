@@ -5,7 +5,7 @@ Student • AI & ML Enthusiast • Android Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Android+Developer;Machine+Learning+Explorer;Building+Smart+Solutions+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Machine+Learning+Explorer;Building+Smart+Solutions+🚀" />
 </p>
 
 ---
