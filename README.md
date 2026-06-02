@@ -1,4 +1,3 @@
-````md id="w5d8um"
 <h1 align="center">Hi 👋, I'm Shehruz Muhammed</h1>
 
 <h3 align="center">
