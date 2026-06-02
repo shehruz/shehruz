@@ -33,26 +33,25 @@ AI & ML Enthusiast • Developer • Tech Explorer
 
 ---
 
+
 # 📊 GitHub Stats
 
 <p align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shehruz&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shehruz&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehruz&layout=compact&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehruz&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=shehruz&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=shehruz&theme=tokyonight&hide_border=true" />
 
 </p>
-
 ---
 
 # 🚀 Featured Project
