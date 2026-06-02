@@ -76,15 +76,6 @@ Healthcare management and appointment platform focused on accessibility and conn
   <img src="https://streak-stats.demolab.com?user=shehruz&theme=tokyonight" />
 </p>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shehruz&theme=tokyonight&hide_border=true" />
-
-</p>
 
 ---
 
