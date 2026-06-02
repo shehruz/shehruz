@@ -1,48 +1,71 @@
-<h1 align="center">Hi 👋, I'm Shehruz Muhammed cs</h1>
+````md id="w5d8um"
+<h1 align="center">Hi 👋, I'm Shehruz Muhammed</h1>
 
 <h3 align="center">
-AI & ML Enthusiast • Developer • Tech Explorer
+AI & ML Enthusiast • Full Stack Developer • Android Explorer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/shehruz">
-    <img src="https://komarev.com/ghpvc/?username=shehruz&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Android+Developer;Machine+Learning+Explorer;Building+Smart+Solutions+🚀" />
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🎓 Artificial Intelligence & Data Science Student
-- 🤖 Passionate about AI & Machine Learning
+- 🎓 B.Tech AI & Data Science Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🚗 Building intelligent Driver Warning Systems
-- 📱 Interested in Android Development
-- 🧠 Exploring TensorFlow & Deep Learning
-- ⚡ Love solving real-world tech problems
+- 🌐 Interested in Full Stack Web Development
+- 📱 Exploring Android Development
+- ⚡ Love building real-world tech solutions
 
 ---
 
 # 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,java,kotlin,androidstudio,git,github,vscode,c,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,java,kotlin,react,nodejs,mongodb,mysql,git,github,vscode,c,cpp" />
 
 </p>
 
 ---
 
+# 🛠 Featured Projects
+
+## 🚗 Driver Warning System
+
+AI-powered road safety application using:
+- TensorFlow Lite
+- GPS + IMU Sensors
+- Android Integration
+- Real-time Driver Alerts
+
+---
+
+## 🏛 Civic Resolve
+
+A civic issue reporting platform designed to improve communication between citizens and authorities.
+
+---
+
+## 🏥 Health Connect
+
+Healthcare management and appointment platform focused on accessibility and connectivity.
+
+---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shehruz&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehruz&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
+
 ---
 
 # 🔥 GitHub Streak
@@ -52,33 +75,12 @@ AI & ML Enthusiast • Developer • Tech Explorer
 <img src="https://streak-stats.demolab.com?user=shehruz&theme=tokyonight&hide_border=true" />
 
 </p>
----
-
-# 🚀 Featured Project
-
-## 🚗 Driver Warning System
-
-AI-powered real-time driver safety & road warning system using:
-
-- GPS
-- IMU Sensors
-- TensorFlow Lite
-- Android Integration
-- Real-time Haptic Alerts
-
-### Features
-
-- Curve detection
-- Dangerous turn alerts
-- Sensor fusion
-- ML-based prediction system
-- Android app integration
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/shehruz" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
@@ -114,16 +116,24 @@ AI-powered real-time driver safety & road warning system using:
 
 ```python
 while(alive):
-    eat()
     code()
-    sleep()
+    learn()
+    build()
     repeat()
-```
+````
 
 ---
 
 <p align="center">
 
-### 🚀 “Smart Systems Begin With Smart Developers.”
+<img src="https://komarev.com/ghpvc/?username=shehruz&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </p>
+
+<p align="center">
+
+### 🚀 “Building intelligent systems for real-world impact.”
+
+</p>
+```
+
