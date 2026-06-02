@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shehruz Muhammed</h1>
 
 <h3 align="center">
-AI & ML Enthusiast • Full Stack Developer • Android Explorer
+Student • AI & ML Enthusiast • Android Explorer
 </h3>
 
 <p align="center">
