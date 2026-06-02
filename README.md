@@ -25,9 +25,15 @@ AI & ML Enthusiast • Full Stack Developer • Android Explorer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,java,kotlin,react,nodejs,mongodb,mysql,git,github,vscode,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,c,cpp" />
 
 </p>
+
+<p align="center">
+🤖 Google AI Studio &nbsp; • &nbsp; ⚡ OpenAI Codex &nbsp; • &nbsp; 🚀 Antigravity
+</p>
+```
+
 
 ---
 
